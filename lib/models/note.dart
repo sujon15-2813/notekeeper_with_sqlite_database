@@ -45,6 +45,8 @@ class Note {
     _date = newDate;
   }
 
+  toMap() {}
+
   // set priority(int  newPriority) {
   //   if (newPriority >= 1 && newPriority  2) {
   //     this._priority = newPriority;
